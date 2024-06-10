@@ -57,7 +57,7 @@ Online Code Editor! This project is a web-based application that allows users to
 ## ⚡ About NPM
   * Install and setup `npm` package
   * Download `npm` from here https://www.npmjs.com/package/download
-  * To install `npm`, it is required to install `node.js` as `npm` gets installed with `node.js` automatically
+  * To install `npm`, it is required to install `node.js` as `npm` gets installed with `node.js` automatically.
   * Checking and updating `npm` version the following command `npm -v` and `npm update npm@latest -g`
   * Complete the installation until finish.
 
